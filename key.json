@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "austin-lopez-portfolio-api",
+  "private_key_id": "369c74878d5c6b61c8256cc5a3218b85c57f2b1d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrWTKTESPIUqBc\nTavrkL9Zcmfx0X8myDwg4oCDhyWewjuykLNA5/GWjqwOFtKVlUp5v5eSy3CcazX9\n4/OloQepaFR3EgRMVLFp1zD7y0WpzMm92saTET6Y+DUA4mRPZ2TtPtd7lWIsEJet\n2kQaIEa454jrQT9NgD6IUQwb2uSEND79Knp3D1c7AvnmpTmHLfd9Ei+g4lyURy3c\nw9A8tRzVXnc70Y2JAHFq2c12kb4EyKmiEozBKadGsfsB7hrguSOPV7mefRlXLdKr\n7HH9u+ARxGnOuyNDw3JAeb2WNwiUgIACFINlYr9FCPobNiTRRa2jVjVfb7pVC23k\nQAGwSRbnAgMBAAECggEAOURxBj0av/d5mA/vjyYMBemaOvRhMkWG7xi0igEPvj09\ndYMuHdnHYSHi+DyBejPwtbsmfg3XX7fnTikzA97LcD+pxzfyzs4Zk32z5du8tzD2\nFil556pCSR7fnCGOFAnC7hXsL+Yv7vlGsHi7/R1fdaoQlUvzy8O6YpXv3ZlteY9t\n6O/iBn7rhWvwb4cnBhZWvo4ObP8DePZXI7RHZEE3sciJU0k0bZC7UJE5M7XUiPXv\nBTpK4i1wADXK0+yWDC0NWgPhx6hCNKSiIH6bFyW1R85I2JfOaqh1Uwul4MPc/m8l\nQa+CfSwqgvOwzh32Lfsa7agK171L2iWhVANRMtJorQKBgQDn+qIbcFpXk0Kd6rql\nqUTFYqmdVU3vy/4eH2AB8SneNejsLpUrbOtecAR23ra1GGXRPWzm5XKBdakFxtEO\nJDc8bhsrLr97l4JW6uZe549J7EZsCIL218wQ0+koe2ypiXvUKk8SbwugleKP9nrf\njSwZEzLDhlZKWZasMJvqOsZyJQKBgQC9F1nNYdkJif1D5W8jWmLCvqI6DZJfxjmH\nBfKXrawHbZRZueQapHydwtZkkQeXUPPjlQk5phDBM6zXaEsC/d0N6hjw1A4fSKsV\nN4iYXRFd6sdRViCfcisHRYFKQhHfhwu1+N+UH1O3c6nbRrFSKHwMtvQTI8+YCtHW\nVCa+xAzJGwKBgQCA1jQeJSInrUO8TNdolj/5mDg3h18HpTX3KNm7emMUZMB+G8kB\nGzcFdhUkp8C1h11U/lZzTk9wExbSfH8y6W48A7LXItl6HMVo3IEhiF2OYskhywBh\nc6yEVA0UTKgm6JJ7XRwZUs8UWuo/plbLva4WJxF0gjF+jY8fBsgxKH96eQKBgQCV\noqLoCqSMDeykDC4U1fQNlHogYpkQvXbMyQIe0cqu3iJllttR0hTja0npr3NIZUF7\nOXdhbW8Y1OHUXK3voiGKX1R5T/YU/5aTZazslcmmfqJYVUXfp6MxT+lucDZgoye7\nS0TynI/NPvSNl7W/BFaWYTlo5A/li7peV52JnO9ZPQKBgHAeuSj2yFC0NjMIUDDA\nJiBeRNuIXwlmyKrML5alu7A4wB9yLYR6nzn2pGhbS/5JHW/NlQAH4ahvcskcKon+\n/JEQ3PBKoFBQ6lFH5Md/rO1yLT4ondCp5s2irCrlsKjEpYmHuzEaOqGTBwDrxID8\nR5CE5OoQy/HJlHKTx6L0jGnP\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-lw5l8@austin-lopez-portfolio-api.iam.gserviceaccount.com",
+  "client_id": "116105017816099893403",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-lw5l8%40austin-lopez-portfolio-api.iam.gserviceaccount.com"
+}
